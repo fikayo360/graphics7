@@ -229,6 +229,9 @@
         padding: 1rem;
     }
 
+    #heroOther p{
+        text-wrap:wrap;
+     }
     
     #navCenter{
         width: 0;
