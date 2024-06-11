@@ -70,7 +70,7 @@ export function Hero(){
             </nav>
 
             <div id='heroOther'>
-                <p> <span id='txtG'>The_Lophotograpy.</span><span className='hIc'><img src='profile.png' /></span> we are exceptional photographers based in lagos state nigeria...
+                <p><span id='txtG'>The_Lophoto.</span><span className='hIc'><img src='profile.png' /></span> we are exceptional photographers based in lagos state nigeria...
                 </p>
                 <div id='heroBtn'><span>get in touch</span><img src='./right.png'/></div>
                 
