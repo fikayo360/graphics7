@@ -7,7 +7,7 @@ export function Footer(){
         <section id='footer' >
          
            <h6 id='footerName' ref={ref} className={`${inView?'animate__animated animate__fadeInDown animate__slow':''}`}>
-            The*<span className='hIc'><img src='profile.png' /></span>*Lophotography</h6>
+            Tosan*<span className='hIc'><img src='profile.png' /></span>*dudun</h6>
 {/*             
             <div id="footerBot">
                 <div className='footerItems'>

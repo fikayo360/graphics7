@@ -34,7 +34,7 @@ export function Hero(){
         <section id="hero" ref={container}>
            { navActive? (<div id='navMobile' onClick={toggleMobileNav} ref={ref} >
                 <header>
-                    <h1>TL</h1>
+                    <h1>TD</h1>
                     <img src='./close.png'/>
                 </header>
                 <ul id='navMobileList'>
@@ -57,7 +57,7 @@ export function Hero(){
                             <li><a href='#faq'>faqs</a></li>
                         </ul>
 
-                    <h1 id='navCenter'> TL</h1>
+                    <h1 id='navCenter'> TD</h1>
 
                     <div id='socialIcons'>
                         <div className='socialIcon'><img src='./facebook.png' /></div>
@@ -70,7 +70,7 @@ export function Hero(){
             </nav>
 
             <div id='heroOther'>
-                <p><span id='txtG'>The_Lophoto.</span><span className='hIc'><img src='profile.png' /></span> we are exceptional photographers based in lagos state nigeria...
+                <p>@<span id='txtG'>Tosandudun.</span><span className='hIc'><img src='profile.png' /></span> we are exceptional photographers based in lagos state nigeria...
                 </p>
                 <div id='heroBtn'><span>get in touch</span><img src='./right.png'/></div>
                 
